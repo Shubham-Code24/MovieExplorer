@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753278980485",
+    "project_id": "fir-messaginservice",
+    "storage_bucket": "fir-messaginservice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753278980485:android:077dc1501b2a86e65df4ec",
+        "android_client_info": {
+          "package_name": "com.movieexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5m2ygKx5kOeOTXoi0k0UinbzMG7ev0fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
